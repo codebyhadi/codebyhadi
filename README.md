@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Abdelhadi</h1>
+<h1 align="center">Hi 👋, I'm Mohammad ABD ELHADI</h1>
 <h3 align="center">Senior Backend & Blockchain Developer | 19+ Years Experience | Solidity • Rust (Solana) • DeFi • Smart Contract Security</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/hadijo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
