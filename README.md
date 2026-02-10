@@ -11,7 +11,7 @@
 
 ### 🚀 About Me<br/>
 - 🔭 Currently working at **BlockZero** — designing scalable blockchain architectures, automating smart contracts (30%+ transaction efficiency gains), and integrating dApps with enterprise systems.<br/><br/>
-- 🌱 Deep expertise in **Solidity**, **Rust (Solana)**, **Hardhat**, **Foundry**, **DeFi protocols**, **cross-chain solutions**, and **blockchain security**.<br/><br/>
+- 🌱 Expertise in **Solidity**, **Rust (Solana)**, **Hardhat**, **Foundry**, **DeFi protocols**, **cross-chain solutions**, and **blockchain security**.<br/><br/>
 - 💼 19+ years delivering backend & web solutions across finance, HR, education, and gaming (PHP, Node.js, MySQL/MongoDB/Redis, Docker, microservices).<br/><br/>
 - 📈 Proven impact: 25–50% improvements in user engagement, performance, and satisfaction in past roles.<br/><br/>
 - ⚡ Fun fact: From optimizing Facebook games (30% faster load times) to securing DeFi protocols.<br/><br/><br/>
