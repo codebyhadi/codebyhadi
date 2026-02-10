@@ -14,7 +14,7 @@
 - 🌱 Deep expertise in **Solidity**, **Rust (Solana)**, **Hardhat**, **Foundry**, **DeFi protocols**, **cross-chain solutions**, and **blockchain security**.<br/><br/>
 - 💼 18+ years delivering backend & web solutions across finance, HR, education, and gaming (PHP, Node.js, MySQL/MongoDB/Redis, Docker, microservices).<br/><br/>
 - 📈 Proven impact: 25–50% improvements in user engagement, performance, and satisfaction in past roles.<br/><br/>
-- ⚡ Fun fact: From optimizing Facebook games (30% faster load times) to securing multi-million TVL DeFi protocols.<br/><br/><br/>
+- ⚡ Fun fact: From optimizing Facebook games (30% faster load times) to securing DeFi protocols.<br/><br/><br/>
 
 ### 🛠️ Tech Stack
 <p align="center">
